@@ -1,0 +1,69 @@
+.topbarnav {
+    margin: 100px;
+ }
+ 
+ .to{
+    display: inline-block;
+    vertical-align: right;
+ }
+ .top{
+
+    float: right;
+ }
+
+ #del {
+  font-size: 30px;
+  font-family: 'Niconne', cursive;
+  position: relative;
+  top: 1px;
+ }
+
+ .printer {
+  float: right;
+ }
+
+hr.linerule {
+  border-top: 1px dashed #8c8b8b;
+  border-bottom: 1px dashed #fff;
+}
+
+h1 {
+  font-size: 40px;
+}
+#postdate {
+  font-family: 'Rajdhani', sans-serif;
+}
+
+#printlogotext {
+  font-family: 'Rajdhani', sans-serif;
+  float: right;
+}
+
+#pizzaimage {
+ size: 80%;
+ margin-left: auto;
+ margin-right: auto;
+ display: block;
+
+}
+#menu {
+  position: absolute;
+  top: 50px;
+  right: 0px;
+}
+
+.recipe {
+  background-image: url('./imgs/list-bg.png')
+}
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+figcaption {
+  float: right;
+}
+
+footer {
+  text-align: center;
+}
